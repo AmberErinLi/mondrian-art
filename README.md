@@ -16,6 +16,12 @@ This Java project generates abstract artwork inspired by Piet Mondrian’s iconi
 - **`Picture`** – Provides utilities for pixel-level image manipulation, saving images, and displaying them on-screen.
 - **`Client`** – Command-line interface for selecting the type of artwork and specifying canvas dimensions.
 
+## Example Output
+
+| Basic Mondrian | Complex Mondrian |
+|---|---|
+| <img src="assets/basic-mondrian.png" width="300"> | <img src="assets/complex-mondrian.png" width="300"> |
+
 ## Usage
 
 1. Compile all Java files:
